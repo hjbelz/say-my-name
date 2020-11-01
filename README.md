@@ -1,2 +1,2 @@
-# say-my-name
-Capturing personal names in German with Google Dialogflow
+# Say my name
+Capturing personal names in **German** with Google Dialogflow
